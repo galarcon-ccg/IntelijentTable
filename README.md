@@ -1,0 +1,2 @@
+# IntelijentTable
+Created with CodeSandbox
